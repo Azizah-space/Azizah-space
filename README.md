@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Azizah 👋
+Turning data into insights 📊  
 
+*"Data is just the beginning — insights create impact."*
 <!--
 **Azizah-space/Azizah-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
