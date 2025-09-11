@@ -6,8 +6,8 @@
 - 🌱 Currently **learning SQL** and starting my journey in **Data Analytics**  
 - 🎯 Interested in **Business Analyst** and data-driven projects  
 - 💬 Open to discussions about **data, analytics, and career growth**  
-- 📩 Reach me at: [azizahawalfitrah@gmail.com](mailto:azizahawalfitrah@gmail.com)
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/azizah-awal-fitrah1/) 
+- 🔗 Reach me at: [LinkedIn](https://www.linkedin.com/in/azizah-awal-fitrah1/) | [Email Me](mailto:azizahawalfitrah@gmail.com)
+- 👩🏻‍💻 **Analytics Projects**: [View Here!](https://github.com/Azizah-space/Azizah_Portofolio)
 
 
 ## Learning Journey
