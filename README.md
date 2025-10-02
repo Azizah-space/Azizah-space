@@ -1,19 +1,24 @@
-# Hi there, I'm Azizah 👋 
-*"Turning data into insights— Data is just the beginning, insights create impact."* ✨   
-
+# Hi there, I'm Azizah 👋  
+*"Turning data into insights— every number tells a story."* ✨  
 
 ## About Me
-- 🌱 Currently **learning SQL** and starting my journey in **Data Analytics**  
+- 🌱 Currently **learning SQL** and building my journey in **Data Analytics**  
 - 🎯 Interested in **Business Analyst** and data-driven projects  
+- 💡 Skilled in Excel & Dashboard creation  
 - 💬 Open to discussions about **data, analytics, and career growth**  
-- 🔗 Reach me at: [LinkedIn](https://www.linkedin.com/in/azizah-awal-fitrah1/) | [Email Me](mailto:azizahawalfitrah@gmail.com)
-- 👩🏻‍💻 **Analytics Projects**: [View Here!](https://github.com/Azizah-space/Azizah_Portofolio)
+- 🔗 Reach me at: [LinkedIn](https://www.linkedin.com/in/azizah-awal-fitrah1/) | [Email Me](mailto:azizahawalfitrah@gmail.com)  
 
+## Featured Projects
+- Sales Overview Dashboard (Power BI) → Analyzed cosmetics sales data (2022), uncovering top-performing products & regional trends.  
+- Customer Churn Analysis (Excel) → Identified churn drivers and visualized retention opportunities.  
+👉 [View More Projects Here](https://github.com/Azizah-space/Azizah_Portofolio)  
 
 ## Learning Journey
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Learning-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/Learning-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![SQL](https://img.shields.io/badge/Basic-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
 
 
 
