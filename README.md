@@ -3,7 +3,7 @@
 
 ## About Me
 - 🌱 Currently **learning SQL** and building my journey in **Data Analytics**  
-- 🎯 Interested in **Business Analyst** and data-driven projects  
+- 🎯 Interested in **Business Analyst** and **Data-driven Projects**  
 - 💡 Skilled in Excel & Dashboard creation  
 - 💬 Open to discussions about **data, analytics, and career growth**  
 - 🔗 Reach me at: [LinkedIn](https://www.linkedin.com/in/azizah-awal-fitrah1/) | [Email Me](mailto:azizahawalfitrah@gmail.com)  
@@ -16,7 +16,6 @@
 ## Learning Journey
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![SQL](https://img.shields.io/badge/Basic-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
